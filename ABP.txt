@@ -326,8 +326,6 @@ cat-translator.net###custom_html-50
 cat-translator.net##.widget_text.widget.col-12.col-md-12.default.no-icon.heading-style-1.widget_custom_html
 mangauptocats.net###custom_html-31
 mangauptocats.net##.widget_text.widget.col-12.col-md-12.default.no-icon.heading-style-1.widget_custom_html
-cat300.com###custom_html-3
-cat300.com##.widget_text.widget.col-12.col-md-12.default.no-icon.heading-style-1.widget_custom_html
 gamcore.com##.col-2.d-md-block.droitAjout
 youtube.com###right-container
 youtube.com##.style-scope.ytd-video-masthead-ad-v3-renderer
