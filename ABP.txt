@@ -315,7 +315,6 @@ kingsmanga.net##.col-md-12.text-center.padding-top-15.new-widget-width
 kingsmanga.net##.textwidget
 cat-translator.net##.c-sidebar.c-top-sidebar
 king-anime.com###ads728x90top
-cat300.com##.row.c-row
 animekimi.com###animekimiads1
 animekimi.com###animekimiads4
 animekimi.com###animekimiads5
