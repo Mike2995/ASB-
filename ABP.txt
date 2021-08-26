@@ -287,6 +287,19 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAtAAAADIAQMAAAD7g0QAAAAAA1BMVEUAAA
 ||imgur.com/yY8Aq6U.gif
 ||imgur.com/gBOyLxS.gif
 ||imgur.com/mjerMoX.gif
+||cat300.com/wp-content/uploads/2021/02/140x250-Lockdown168.gif
+||cat300.com/wp-content/uploads/2021/02/140x250-brazil999.gif
+||cat300.com/wp-content/uploads/2021/06/ezgif.com-gif-maker.webp
+||cat300.com/wp-content/uploads/2021/02/728x200-UFA1919.gif
+||cat300.com/wp-content/uploads/2021/06/728x200-euro.gif
+||cat300.com/wp-content/uploads/2021/02/728x200-london.gif
+||cat300.com/wp-content/uploads/2021/02/728x200-lotto432.gif
+||cat300.com/wp-content/uploads/2021/05/panama888.gif
+||cat300.com/wp-content/uploads/2021/03/newcat350.gif
+||cat300.com/wp-content/uploads/2021/06/rg30k.gif
+||cat300.com/wp-content/uploads/2021/06/3-7-11-720x200px.gif
+||cat300.com/wp-content/uploads/2021/05/728x200-mahagame88.gif
+||cat300.com/wp-content/uploads/2021/02/728x200-Hydra888-v1.gif
 ||image6.kingsmanga.net/4b/c1/Upload-sdsd-M8NTW-By-KingZer.jpg
 ||1.bp.blogspot.com/-BkpwYUYSmnk/YLDiT9JquiI/AAAAAAAAnVQ/Mx4cVAtCurkgAXoyk2lZ_xOlxhsP59SOQCLcBGAsYHQ/s0/728x90%2Bmahagame88v.gif
 ||fgn.cdn.serverable.com/common/images/n0cvd19n0fun/kink-2.gif
@@ -302,6 +315,7 @@ kingsmanga.net##.col-md-12.text-center.padding-top-15.new-widget-width
 kingsmanga.net##.textwidget
 cat-translator.net##.c-sidebar.c-top-sidebar
 king-anime.com###ads728x90top
+cat300.com##.row.c-row
 animekimi.com###animekimiads1
 animekimi.com###animekimiads4
 animekimi.com###animekimiads5
@@ -313,6 +327,8 @@ cat-translator.net###custom_html-50
 cat-translator.net##.widget_text.widget.col-12.col-md-12.default.no-icon.heading-style-1.widget_custom_html
 mangauptocats.net###custom_html-31
 mangauptocats.net##.widget_text.widget.col-12.col-md-12.default.no-icon.heading-style-1.widget_custom_html
+cat300.com###custom_html-3
+cat300.com##.widget_text.widget.col-12.col-md-12.default.no-icon.heading-style-1.widget_custom_html
 gamcore.com##.col-2.d-md-block.droitAjout
 youtube.com###right-container
 youtube.com##.style-scope.ytd-video-masthead-ad-v3-renderer
